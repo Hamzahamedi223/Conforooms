@@ -60,8 +60,8 @@ const Contact = () => {
     // Send the form data using emailjs
     emailjs
       .sendForm(
-        "service_y9g2szk", // Replace with your EmailJS service ID
-        "template_gleiffr", // Replace with your EmailJS template ID
+        "service_dryl7mq", // Replace with your EmailJS service ID
+        "template_9c1scq7", // Replace with your EmailJS template ID
         form.current, // Reference to the form
         "OKw0E-U3qNWJvJQVs" // Replace with your EmailJS public key
       )

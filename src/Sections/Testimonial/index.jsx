@@ -59,8 +59,8 @@ const Testimonial = () => {
 
     emailjs
       .sendForm(
-        "service_y9g2szk", // Your EmailJS service ID
-        "template_g73lfnu", // Your EmailJS review template ID
+        "service_dryl7mq", // Your EmailJS service ID
+        "template_gjgd0wf", // Your EmailJS review template ID
         reviewForm.current, // Reference to the form
         "OKw0E-U3qNWJvJQVs" // Your EmailJS public key
       )
