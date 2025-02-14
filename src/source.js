@@ -331,7 +331,7 @@ export const footer = [
         href: "#",
       },
       {
-        name: "Renovation & Remodeling",
+        name: "Refurbishment",
         href: "#",
       },
       {
