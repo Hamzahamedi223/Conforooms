@@ -173,7 +173,7 @@ export const services = [
     ]
   },
   {
-    title: "Renovation & Remodeling",
+    title: "Refurbishment",
     icon: <FaTools />,
     description: `Transforming existing spaces with expert renovation and design.`,
     images: [
