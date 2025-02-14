@@ -45,7 +45,6 @@ export { default as extension1 } from "./Extensions/1.jpeg";
 export { default as extension2 } from "./Extensions/2.jpeg";
 export { default as extension3 } from "./Extensions/3.jpeg";
 export { default as extension4 } from "./Extensions/4.jpeg";
-export { default as extension5 } from "./Extensions/5.jpeg";
 export { default as extension6 } from "./Extensions/6.jpeg";
 export { default as extension7 } from "./Extensions/7.jpeg";
 export { default as commercial1 } from "./comercial-project/1.jpeg";

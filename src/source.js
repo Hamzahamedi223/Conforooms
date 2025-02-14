@@ -12,7 +12,7 @@ import {
 } from "react-icons/fa";
 import {Bathroom1,Bathroom2,Bathroom3,Bathroom4,Bathroom5,Bathroom6,Bathroom7,bussnies1,bussnies2,bussnies6,outdoor1,outdoor12,outdoor13,outdoor15,outdoor18,outdoor19,outdoor21,outdoor22,outdoor23,outdoor24,outdoor25,outdoor26,outdoor27,outdoor28,outdoor29,outdoor30,outdoor5,outdoor8,
   kitchen,
-  extension1,extension2,extension3,extension4,extension5,extension6,extension7,
+  extension1,extension2,extension3,extension4,extension6,extension7,
   commercial1,commercial2,commercial3,commercial5,commercial6
 
   
@@ -28,7 +28,7 @@ export const outdoorImages = [
   outdoor28, outdoor29, outdoor30
 ];
 export const extensionImages = [
-  extension1, extension2, extension3, extension4, extension5, extension6, extension7
+  extension1, extension2, extension3, extension4, extension6, extension7
 ];
 export const businessImages = [
   bussnies1, bussnies2,  bussnies6,commercial1,commercial3
